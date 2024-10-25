@@ -20,6 +20,7 @@ Original FFT:
 ![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_fft.png?raw=true)
 
 ## Low Pass
+### Circular
 Filtered image:
 
 ![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_low_pass.png?raw=true)
@@ -28,7 +29,17 @@ Filtered FFT:
 
 ![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_low_pass_fft.png?raw=true)
 
+### Gaussian
+Filtered image:
+
+![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_low_pass_gauss.png?raw=true)
+
+Filtered FFT:
+
+![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_low_pass_gauss_fft.png?raw=true)
+
 ## High Pass
+### Circular
 Filtered image:
 
 ![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_high_pass.png?raw=true)
@@ -36,3 +47,12 @@ Filtered image:
 Filtered FFT:
 
 ![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_high_pass_fft.png?raw=true)
+
+### Gaussian
+Filtered image:
+
+![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_high_pass_gauss.png?raw=true)
+
+Filtered FFT:
+
+![](https://github.com/peterc-s/fft-filters/blob/main/output/pops_high_pass_gauss_fft.png?raw=true)
